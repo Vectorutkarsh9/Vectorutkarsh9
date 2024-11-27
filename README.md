@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Vectorutkarsh9
-- 👀 I’m interested in Cyber security and Machine Learning. 
-- 🌱 I’m currently learning in UCER
+🌟 Enthusiastic Web Developer & Problem Solver | 3rd Year CSE @ United College
+Passionate about creating efficient, scalable web applications and tackling complex challenges through algorithmic solutions. Committed to delivering impactful, user-focused software while staying at the forefront of emerging technologies.
 
-<!---
-Vectorutkarsh9/Vectorutkarsh9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 Driven by innovation. Focused on quality. Always learning.
+📌 Open to exciting opportunities that inspire growth and make a difference.
